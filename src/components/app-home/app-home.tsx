@@ -18,7 +18,14 @@ export class AppHome {
       <ion-content>
         <ion-fab>
         <ion-fab-button>
-          <ion-icon name="image"></ion-icon>
+          <ion-icon name="add-circle-outline"></ion-icon>
+        </ion-fab-button>
+      </ion-fab>
+      </ion-content>,
+        <ion-content>
+        <ion-fab>
+        <ion-fab-button>
+          <ion-icon name="add-circle-sharp"></ion-icon>
         </ion-fab-button>
       </ion-fab>
       </ion-content>,
